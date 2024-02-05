@@ -1,2 +1,2 @@
 # Project-2023
-Documentation relating to the Dell project 2023
+This is the master archive for the original Janus project with Dell 2022-24.
