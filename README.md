@@ -4,7 +4,7 @@ This is the master archive for the original Janus project with Dell 2022-24.
 This is a working document to describe the ML/AI project (Project Janus) installed at the ATU Donegal KMN data centre in 2023. 
 The general goal of the project is to create an Artificial Intelligence and Machine Learning infrastructure.
 The project consists of four subsystems.
-1.	The Services Infrastructure (AD, DNS, DHCP, Firewall, Racks, Power) provided by ATU
+1.	[The Services Infrastructure](\ServicesInfrastructure\si.md) (AD, DNS, DHCP, Firewall, Racks, Power) provided by ATU
 2.	The High-Performance Computing (HPC) cluster
 3.	The Streaming Data Platform (SDP)
 4.	The Data Lake
