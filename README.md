@@ -1,8 +1,8 @@
 # Project-2023
 This is the master archive for the original Janus project with Dell 2022-24.
 
-This is a working document to describe the ML/AI project (Project Janus) installed at the KMN data centre in 2023. This document is personal notes, it has no formal status!
-The general goal of the project is to create an Artificial Intelligence and Machine Learning infrastructure for research and teaching.
+This is a working document to describe the ML/AI project (Project Janus) installed at the ATU Donegal KMN data centre in 2023. 
+The general goal of the project is to create an Artificial Intelligence and Machine Learning infrastructure.
 The project consists of four subsystems.
 1.	The Services Infrastructure (AD, DNS, DHCP, Firewall, Racks, Power) provided by ATU
 2.	The High-Performance Computing (HPC) cluster
