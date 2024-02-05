@@ -3,6 +3,6 @@ The installation for this equipment will be at the Kay McNulty teaching data cen
 Racks 11-15 (not shown) are bayed and referred to as the south-facing bay.
 Racks 21-25 (shown) are bayed and referred to as the north-facing bay, all Janus equipment is installed in the north-facing bay.
 
-![<img title="North Facing Racks" racks.png">]
+!["North Facing Racks"] (racks.png")
 
 
